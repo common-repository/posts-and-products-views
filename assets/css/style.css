@@ -1,0 +1,18 @@
+.dark .papvfwc-digit {
+    background: #000;
+    color: #fff;
+    margin: 0px 2px;
+    padding: 7px 10px;
+    vertical-align: middle;
+    border-radius: 6px;
+}
+
+.light .papvfwc-digit {
+    background: #fff;
+    color: #000;
+    margin: 0px 2px;
+    padding: 7px 10px;
+    vertical-align: middle;
+    border: 1px solid;
+    border-radius: 6px;
+}
